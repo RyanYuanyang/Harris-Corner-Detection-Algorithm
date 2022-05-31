@@ -1,5 +1,4 @@
 Author: Tu Yuanyang
-Course: COMP3117
 
 The program is an implementation of the Harris corner detection algorithm
 
